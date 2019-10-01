@@ -1,0 +1,6 @@
+Connection > workspace
+Connection > Edit current workspace > Include tree
+
+Revert unchanged files
+
+edit, project settings, version control. Windows > version control
