@@ -13,6 +13,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AgentTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PassengerAnimations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/test.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AgentWander.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,6 +22,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/AgentWander.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AgentTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PassengerAnimations.cs" />
+        <option value="$PROJECT_DIR$/Assets/test.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +82,7 @@
       <updated>1568845150047</updated>
       <workItem from="1568845157208" duration="2730000" />
       <workItem from="1569112104072" duration="633000" />
+      <workItem from="1570089882466" duration="3149000" />
     </task>
     <servers />
   </component>
@@ -91,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

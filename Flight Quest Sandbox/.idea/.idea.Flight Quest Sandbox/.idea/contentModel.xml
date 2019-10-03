@@ -9,9 +9,12 @@
         <e p="Scripts" t="Include">
           <e p="AgentTarget.cs" t="Include" />
           <e p="AgentWander.cs" t="Include" />
+          <e p="AnimatorMachine.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="PassengerAnimations.cs" t="Include" />
           <e p="PassengerQue.cs" t="Include" />
         </e>
+        <e p="test.cs" t="Include" />
       </e>
       <e p="Flight Quest Sandbox.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
