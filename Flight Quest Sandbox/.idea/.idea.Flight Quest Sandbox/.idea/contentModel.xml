@@ -13,6 +13,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="PassengerAnimations.cs" t="Include" />
           <e p="PassengerQue.cs" t="Include" />
+          <e p="Rocket.cs" t="Include" />
         </e>
         <e p="test.cs" t="Include" />
       </e>
